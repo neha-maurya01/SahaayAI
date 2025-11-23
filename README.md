@@ -34,7 +34,7 @@ SahaayAI bridges the digital divide by providing simplified, actionable guidance
 
 ```bash
 # Clone repository
-git clone https://github.com/AjitKumar01/Saahayak.git
+git clone https://github.com/neha-maurya01/SahaayAI.git
 cd SahaayAI
 
 # Run automated installer
