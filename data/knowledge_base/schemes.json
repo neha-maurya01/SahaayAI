@@ -1,0 +1,161 @@
+{
+  "schemes": [
+    {
+      "id": "pmjay",
+      "name": "Pradhan Mantri Jan Arogya Yojana (Ayushman Bharat)",
+      "domain": "health",
+      "description": {
+        "en": "Free health insurance coverage of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization",
+        "hi": "माध्यमिक और तृतीयक देखभाल अस्पताल में भर्ती के लिए प्रति परिवार प्रति वर्ष ₹5 लाख तक का मुफ्त स्वास्थ्य बीमा कवरेज"
+      },
+      "eligibility": {
+        "criteria": [
+          "Families from socio-economic caste census (SECC) database",
+          "Must have Ayushman card or eligible through SECC",
+          "No age limit",
+          "Cashless and paperless treatment"
+        ],
+        "documents": [
+          "Aadhaar Card",
+          "Ration Card",
+          "SECC verification"
+        ]
+      },
+      "how_to_apply": {
+        "steps": [
+          "Visit nearest Common Service Centre (CSC)",
+          "Provide Aadhaar and mobile number",
+          "Get Ayushman card printed",
+          "Use card at empanelled hospitals"
+        ]
+      },
+      "helpline": "14555",
+      "website": "https://pmjay.gov.in"
+    },
+    {
+      "id": "pmkisan",
+      "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+      "domain": "agriculture",
+      "description": {
+        "en": "Direct income support of ₹6,000 per year to farmer families in three equal installments",
+        "hi": "तीन समान किश्तों में किसान परिवारों को प्रति वर्ष ₹6,000 की प्रत्यक्ष आय सहायता"
+      },
+      "eligibility": {
+        "criteria": [
+          "Small and marginal farmers",
+          "Must have cultivable land",
+          "All farmer families across India"
+        ],
+        "documents": [
+          "Aadhaar Card",
+          "Bank account details",
+          "Land ownership documents"
+        ]
+      },
+      "how_to_apply": {
+        "steps": [
+          "Visit PM-KISAN portal or CSC",
+          "Register with Aadhaar",
+          "Link bank account",
+          "Submit land records",
+          "Wait for verification"
+        ]
+      },
+      "helpline": "011-23381092",
+      "website": "https://pmkisan.gov.in"
+    },
+    {
+      "id": "pmjjby",
+      "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+      "domain": "finance",
+      "description": {
+        "en": "Life insurance scheme offering ₹2 lakh death coverage for annual premium of ₹436",
+        "hi": "₹436 के वार्षिक प्रीमियम के लिए ₹2 लाख मृत्यु कवरेज की पेशकश करने वाली जीवन बीमा योजना"
+      },
+      "eligibility": {
+        "criteria": [
+          "Age: 18-50 years",
+          "Must have savings bank account",
+          "Auto-debit consent required"
+        ],
+        "documents": [
+          "Aadhaar Card",
+          "Bank account",
+          "Consent form"
+        ]
+      },
+      "how_to_apply": {
+        "steps": [
+          "Visit your bank branch",
+          "Fill enrollment form",
+          "Provide Aadhaar and consent",
+          "Premium will be auto-debited yearly"
+        ]
+      },
+      "helpline": "1800-180-1111",
+      "website": "https://www.jansuraksha.gov.in"
+    }
+  ],
+  "health_guidelines": {
+    "first_aid": {
+      "en": [
+        "For bleeding: Apply pressure with clean cloth",
+        "For burns: Cool with water for 10 minutes",
+        "For fever: Give plenty of fluids, use fever-reducing medicine",
+        "For choking: Perform Heimlich maneuver"
+      ],
+      "hi": [
+        "रक्तस्राव के लिए: साफ कपड़े से दबाव डालें",
+        "जलने के लिए: 10 मिनट के लिए पानी से ठंडा करें",
+        "बुखार के लिए: खूब तरल पदार्थ दें, बुखार कम करने वाली दवा दें",
+        "घुटन के लिए: हेमलिच युद्धाभ्यास करें"
+      ]
+    },
+    "when_to_seek_help": [
+      "Severe chest pain or difficulty breathing",
+      "Heavy bleeding that won't stop",
+      "Loss of consciousness",
+      "High fever above 103°F (39.4°C)",
+      "Severe abdominal pain",
+      "Sudden confusion or inability to speak"
+    ]
+  },
+  "agriculture_tips": {
+    "crop_insurance": {
+      "scheme": "Pradhan Mantri Fasal Bima Yojana",
+      "coverage": "Crop loss due to natural calamities, pests, diseases",
+      "premium": "2% for Kharif, 1.5% for Rabi",
+      "claim_process": "Report loss within 72 hours to insurance company and agriculture department"
+    },
+    "weather_alerts": {
+      "monsoon_preparation": [
+        "Ensure proper drainage in fields",
+        "Store seeds in dry place",
+        "Check weather forecast regularly",
+        "Harvest ready crops before heavy rains"
+      ]
+    }
+  },
+  "financial_literacy": {
+    "banking_basics": {
+      "opening_account": [
+        "Visit nearest bank branch",
+        "Carry Aadhaar and PAN card",
+        "Minimum balance varies by bank",
+        "Get passbook and debit card"
+      ],
+      "digital_payments": [
+        "UPI: Instant bank-to-bank transfer",
+        "Download BHIM or any UPI app",
+        "Link bank account",
+        "Send money using mobile number or UPI ID"
+      ]
+    },
+    "avoiding_fraud": [
+      "Never share OTP or PIN",
+      "Bank will never ask for password",
+      "Be careful of phishing calls",
+      "Verify before making online payments"
+    ]
+  }
+}
